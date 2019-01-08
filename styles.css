@@ -1,0 +1,9 @@
+/*
+    This holds all of my custom made styles for the website
+ */
+
+.home-location{
+    padding: 5px;
+    position: relative;
+    bottom: -8px;
+}
